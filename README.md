@@ -25,7 +25,7 @@ Les captures suivantes montrent les différentes parties du fichier de mise en p
 
 ![Choix du jeûne](capture/activity_main_2.png)
 
-![Saisie de la valeur et bouton Consulter](capture/Capture%20d%27%C3%A9cran%202026-10-31%20133241.png)
+![Saisie de la valeur et bouton Consulter](capture/finaly.png)
 
 ![Fichier de mise en page dans Android Studio](capture/layout.png)
 
