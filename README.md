@@ -29,9 +29,12 @@ Les captures suivantes montrent les différentes parties du fichier de mise en p
 
 ![Fichier de mise en page dans Android Studio](capture/layout.png)
 
+
 ### Code Java
 
 ![Activité principale et gestion du bouton](capture/main_activity.png)
+
+![](capture/fin.png)
 
 
 
